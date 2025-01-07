@@ -82,6 +82,8 @@ class linkedList {
         this.length--
         return this.printList()
     }
+
+
 }
 
 
